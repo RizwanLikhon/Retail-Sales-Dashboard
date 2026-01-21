@@ -33,7 +33,7 @@ The dashboard provides high-level KPIs and detailed drill-down analysis by regio
 - Western region leads in overall sales
 
 ## Screenshots
-See the `screenshot/` folder for dashboard previews.
+See the `Screenshot/` folder for dashboard previews.
 
 ## Author
 A S M Rizwan Chowdhury
